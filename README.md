@@ -29,5 +29,6 @@ A simple React app to practice useState and event handling. It changes the backg
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/color-bg-changer.git
+   git clone https://github.com/sntripathi180/ColorChanger.git
+   
    cd color-bg-changer
